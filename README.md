@@ -23,5 +23,5 @@ I am Jervonnie Loi P. Corpuz, passionate about coding and skilled in database ma
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Reach Me
-- **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
+- **LinkedIn:** [LinkedIn Profile]([LinkedIn_Profile_Link](https://www.linkedin.com/in/jervonnie-corpuz-4b40922a5/)https://www.linkedin.com/in/jervonnie-corpuz-4b40922a5/)
 - **Email:** jervonnie12@gmail.com
