@@ -16,6 +16,8 @@ I am Jervonnie Loi P. Corpuz, passionate about coding and skilled in database ma
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CC431D915B4683908A95ED171F3DE426CA82317D7178930904B14E1ADD46EAC5&fbclid=IwAR1tYbhqTFc9wtyMP8RIoFYVvnSlsAQXvp4D6caIf7egYBy6biU9v8vGAPg)
 - 
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a9b42f9f40374711a2a3eb72191c1b90)
+-
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/9e8fdca759c14632acf6796c2e1d61b8)
 
 ## Skill Sets
 - **Programming:** Java, Javascript
